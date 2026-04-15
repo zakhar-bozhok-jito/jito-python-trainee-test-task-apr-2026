@@ -1,4 +1,4 @@
-# Python Test Task — Minimal Accounting Web App
+# 🐍 Python Test Task — Minimal Accounting Web App 🐍
 
 ## Why we use this task
 
